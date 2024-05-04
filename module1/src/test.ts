@@ -1,0 +1,1 @@
+let learn = 'I am learning typescript'
